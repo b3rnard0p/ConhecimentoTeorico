@@ -1,0 +1,43 @@
+.Garvin
+  -Definição: A qualidade é um conceito complexo e multifacetado.  
+  -5 pontos de vista diferentes:  
+    - Transcendental: a qualidade é reconhecida imediatamente, mas não pode ser definida explicitamente.  
+    - Do usuário: se o produto atende às metas do usuário final, ele tem qualidade.  
+    - Do fabricante: se o produto atende às especificações originais, ele tem qualidade. 
+    - Do produto: está ligada às características inerentes do produto, como suas funções.  
+    - Baseada em valor: baseada no quanto o cliente estaria disposto a pagar.  
+
+    - Projeto x Conformidade: A qualidade de projeto refere-se ao atendimento dos requisitos especificados. 
+        - A qualidade de conformidade refere-se ao grau em que a implementação seguiu o que foi projetado.  
+
+.Pressman
+  Definição É a aplicação de uma gestão efetiva para criar um produto útil e com valor mensurável.
+    - Um produto "útil" fornece o que o usuário quer, além de confiabilidade e isenção de erros.
+
+.Modelos e Dimensões da Qualidade 
+  - Dimensões de Garvin:
+    - Desempenho, Recursos, Confiabilidade, Conformidade, Durabilidade, Facilidade de manutenção, Estética e Percepção.
+
+  - Fatores de McCall: Divididos em um triângulo de três focos:
+    - Operação do produto: Correção, usabilidade, confiabilidade, eficiência e integridade.
+    - Revisão do produto: Facilidade de manutenção, flexibilidade e testabilidade.
+    - Transição do produto: Portabilidade, reusabilidade e interoperabilidade.
+
+  - ISO 9126: 
+    - Mede atributos como Funcionalidade, Confiabilidade, Usabilidade, Eficiência, Facilidade de manutenção e Portabilidade.
+    - Fatores desejados: Intuição (fácil de usar sem treino), Eficiência (operações fáceis de achar) e Robustez (lida bem com entradas incorretas e erros).
+
+.O Dilema da Qualidade (Bertrand Meyer)
+  - Fazer um software de péssima qualidade é ruim porque ninguém vai comprar.
+  - Fazer um software "absolutamente perfeito" demora muito tempo, custa muito dinheiro e leva a empresa à falência.
+  - A solução: Buscar o software "bom o suficiente".
+    - Ele fornece as funções principais de alta qualidade que o usuário quer, mesmo que funcionalidades secundárias ainda tenham erros conhecidos.
+
+.O Custo da Qualidade
+  - A qualidade custa tempo e dinheiro, sendo dividida em três tipos de custos:
+    - Prevenção: planejamento, treinamentos, modelagem técnica e controle.
+    - Avaliação: revisões técnicas, testes, coleta de métricas e depuração.
+    - Falhas: se dividem em internas (retrabalho para corrigir defeitos antes da entrega) e externas (após a entrega, como suporte, reclamações e devoluções).
+      - Importante: O custo de correção cresce exponencialmente. Corrigir um erro na fase de requisitos é barato, mas o mesmo erro corrigido na fase de manutenção custa caro.
+
+.Negligencia e Resposabilidade: Sempre documentar e ter provas do processo e contratos

@@ -1,0 +1,68 @@
+.Ferramentas de SQA
+  - Revisão
+    - Um faz e qualquer outro revisa (Informal)
+    - Gerente de SQA (dita quem revisa o que, marca reuniões, métricas e debates) (Formal)
+  - Treinamento
+    - Treinar a pessoa antes de fazer algo (deixar a pessoa sem o treinamento pode cagar tudo)
+  - Auditoria
+    - Combinamos, acordamos padrões, preciso analisar se esses acordos estão sendo compridos
+  - Teste
+    - Encontrar erro
+
+.O que é SQA (Software Quality Assurance)
+  - Definição: É um padrão de ações planejado e sistematizado para garantir a alta qualidade do software.
+    - Um processo estruturado de SQA.
+    - Tarefas específicas de garantia e controle (revisões técnicas, estratégia de testes).
+    - Práticas efetivas de engenharia de software e controle de artefatos/mudanças.
+    - Procedimentos para conformidade com padrões e mecanismos de medição.
+    - Estabelece a infraestrutura necessária para suportar métodos sólidos de engenharia de software.
+
+.Verificação e Validação (V&V)
+  - Essenciais para a SQA, atuam em momentos diferentes:
+  - Verificação: "Estou construindo o produto da forma correta?" - Processo Construtivo
+    - Garante que os produtos de uma fase estejam em conformidade com as condições iniciais.
+    - Exemplos:Revisões, padrões, auditorias, análise da qualidade de projeto e código.
+  - Validação:"Estou construindo o produto certo?" - Como o Cliente quer
+    - Avalia o software para garantir que atende às necessidades e aos requisitos do cliente.
+    - Exemplos: Testes de software no final do desenvolvimento.
+
+.Ferramentas de SQA
+  - Revisão
+    - Um faz e qualquer outro revisa (Informal)
+    - Gerente de SQA (dita quem revisa o que, marca reuniões, métricas e debates) (Formal)
+  - Treinamento
+    - Treinar a pessoa antes de fazer algo (deixar a pessoa sem o treinamento pode cagar tudo)
+  - Auditoria
+    - Combinamos, acordamos padrões, preciso analisar se esses acordos estão sendo compridos
+  - Teste
+    - Encontrar erro
+  - Padrões
+    - Adoção de normas (ISO, IEEE) e garantia de que os produtos estejam em conformidade.
+  - Métricas
+    - Coleta e Análise de Erros/Defeitos: Medir o desempenho e entender como erros são introduzidos para eliminá-los.
+  - Gerenciamento de Mudanças
+    - Controlar alterações para evitar confusões e perda de qualidade.
+
+.Métricas
+  - Medir a qualidade das medições kkk
+  - Metas e Exemplos de Métricas:
+    - Qualidade dos Requisitos: Métricas de ambiguidade, completude (número de modificadores ambíguos, quantidade de TBDs).
+    - Qualidade do Projeto: Integridade da arquitetura, complexidade da interface.
+    - Qualidade do Código: Complexidade ciclomática, % de comentários internos, % de reutilização.
+    - Eficácia do Controle de Qualidade: % de horas alocadas, erros encontrados e criticalidade.
+
+. Estatística da Qualidade e Seis Sigma
+  - A estatística ajuda a isolar problemas. 
+    - Princípio de Pareto: 80% dos defeitos estão associados a 20% das causas (as "poucas causas vitais").
+
+  - Metodologia Seis Sigma:
+    - Estratégia rigorosa de análise de dados (criada pela Motorola) para eliminar defeitos.
+    - Para processos existentes (DMAIC):
+      - Definir metas e necessidades.
+      - Medir o processo existente.
+      - Analisar defeitos (causas vitais).
+      - Aperfeiçoar (Improve) eliminando as causas.
+      - Controlar para evitar reintrodução de erros.
+    - Para novos processos (DMADV):
+      - O foco substitui Aperfeiçoar/Controlar por Design (Projetar) e Verificar.
+

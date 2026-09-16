@@ -16,3 +16,9 @@
 	- Padronização da receita, eu não dou só os ingredientes, mas tbm o que fazer e 	  na ordem que tem que ser feita.
 	- Dockerfile = Ficha Técnica
 	- Dockerfile é o print de tudo que preciso
+
+- Locais para guardar a imagem
+	- Privados
+		Github
+	- Publicos
+		DockerHub

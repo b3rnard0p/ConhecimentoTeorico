@@ -22,3 +22,5 @@
 - docker build-t usuario/nome da imagem:tag . : Criar a imagem vinculada a o meu usuario
 
 - docker push usuario/nome da imagem:tag : Subir a imagem para o DockerHub
+
+- docker build --plataform linux/amd64 -t usuario/nome da imagem:tag . : Criar imagem mundado a plataforma

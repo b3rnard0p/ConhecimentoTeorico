@@ -15,3 +15,10 @@
 - docker run -p 8080:8080 imagem:tag : Subir o container expondo a porta
 
 - docker stop <id do container> : Para um container
+
+- docker login -u usuario : Login com o DockerHub
+  - Por o token
+
+- docker build-t usuario/nome da imagem:tag . : Criar a imagem vinculada a o meu usuario
+
+- docker push usuario/nome da imagem:tag : Subir a imagem para o DockerHub

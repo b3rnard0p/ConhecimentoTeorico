@@ -1,0 +1,18 @@
+- O que é o Docker
+	- Serviço de Virtualização
+	- Receita de Bolo
+
+- Porque usar o Docker
+	- Na minha máquina funciona
+	- Evita problemas de versionamento de dependências
+
+- Diferença entre venv e Docker
+	- venv -> Tenho que baixar um SO
+		- Criar varias venvs é um gargalo no computador
+		- Consome muito recurso
+	- Container (Docker) -> Ele pega uma versão simplificada do SO da máquina
+		- Vários containers não viram gargalo, são pequenos
+- Como funciona
+	- Padronização da receita, eu não dou só os ingredientes, mas tbm o que fazer e 	  na ordem que tem que ser feita.
+	- Dockerfile = Ficha Técnica
+	- Dockerfile é o print de tudo que preciso

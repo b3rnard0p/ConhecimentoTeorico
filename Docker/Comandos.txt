@@ -1,0 +1,17 @@
+- docker ps: Ver os containers rodando
+
+- docker run <nome da imagem> : Puxar e rodar container
+
+- docker ps -a : Ver todos os containers
+
+- docker image ls : Mostra as imagens baixadas
+
+- docker container rm <nome do container> : Excluir container
+
+- docker image rm <nome da imagem> : Excluir imagem
+
+- docker build -t imagem:tag . : Criar a imagem
+
+- docker run -p 8080:8080 imagem:tag : Subir o container expondo a porta
+
+- docker stop <id do container> : Para um container

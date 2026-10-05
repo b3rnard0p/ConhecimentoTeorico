@@ -1,0 +1,3 @@
+-Definição de Teste -> Conjunto de Dados, Fluxo de passos e comparação de resultados (Esperado e Observado)
+  -Cenários testam a mesma coisa, mas com dados e resultados diferentes
+    -Conjunto de cenários para um mesmo teste se chama Suíte
